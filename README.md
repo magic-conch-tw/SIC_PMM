@@ -50,7 +50,7 @@ Physical laws are not the essence of the universe, but the "manifestation" of **
 ## 📄 核心文獻 / Canonical Document
 
 * **[SIC_PMM_Main.pdf](./SIC_PMM_Main.pdf)**
-    * *Contents include: Base-system rectification, derivation of the $\beta$-offset, settlement of the Hubble Tension, and definitions of discrete operators. / 內容涵蓋：數制修正、 $\beta$ 偏移推導、哈伯張力結算、離散算符定義。*
+    * *Contents include: Base-system rectification, derivation of the $\beta$-offset, settlement of the Hubble Tension, and definitions of discrete operators. / 內容涵蓋：數制修正、 $ \beta $ 偏移推導、哈伯張力結算、離散算符定義。*
 
 ---
 

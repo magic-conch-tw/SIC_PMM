@@ -68,5 +68,5 @@ Any attempt to patent, close, or monopolize SIC/PMM will trigger automatic licen
 
 ---
 
-**"Ask the Magic Conch. The settlement is absolute."**
-**「問問神奇海螺吧。結算已成定局。」**
+**「你怎麼不問問神奇海螺呢？」**
+**"Why don't you ask the Magic Conch?"**

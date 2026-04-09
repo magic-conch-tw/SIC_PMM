@@ -36,6 +36,7 @@ This is not a fitted constant, but a nonlinear offset during phase projection. A
 這不是一個擬合常數，而是相位投影過程中的非線性偏移量。所有物理結構（從哈伯張力到量子力學）均可由此算子推導得出。
 
 ### **The Settlement Equations / 顯影方程**
+$$\text{Reality} = \mathcal{P}_{\beta} \big( e^{i\theta(\text{background})} ; \Sigma, L \big)$$
 Physical laws are not the essence of the universe, but the "manifestation" of **SIE (Space Interlayer Equations)** under specific projection phases. This framework settles mass-energy, gravity, and quantum effects as geometric expressions of information density.
 物理定律並非宇宙的本質，而是 **SIE (Space Interlayer Equations)** 在特定投影相位下的「顯影」。本架構透過顯影方程，將質能、重力與量子效應結算為資訊密度的幾何表現。
 

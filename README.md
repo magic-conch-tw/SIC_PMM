@@ -54,19 +54,14 @@ Physical laws are not the essence of the universe, but the "manifestation" of **
 
 ---
 
-## 🔐 主權驗證 / Sovereign Verification
+## 🔐 ## 驗證與聯繫 (Verification & Contact)
 
-To ensure the "evolutionary purity" and "origin trajectory" of the theory, this framework is cryptographically locked:
-
-為確保理論之「演化純度」與「來源軌跡」，本架構受加密鎖定：
-
-* **Author / 作者**: `Magic Conch`
-* **PGP Fingerprint / 指紋**: `8A972EAD40F648E92B629239A01E02681B2B8FC2`
-* **Release Date / 發布日**: `2026-05-13`
+* **PGP 數位指紋 / PGP Fingerprint：** `8A972EAD40F648E92B629239A01E02681B2B8FC2`
+* **加密通訊信箱 / Encrypted Communication：** `magic.conch.tw@proton.me`
+* **永久存檔 / Permanent Archive (IPFS CID)：** `ipfs://Qma6ms7C3BqgLJPAXN36mp6JGpZeFeB6VUFUFtLcTkyzVy`
+* **完整性校驗 / Integrity Note (SHA-256)：** *請核對官方發布頁面提供之最終文件雜湊值，以確保內容純淨。*
 
 ## ⚖️ 反壟斷條款 / Anti-Monopoly Clause
-
-> **"Truth shall not be privatized." / 「真理不應被私有化。」**
 
 Any attempt to patent, close, or monopolize SIC/PMM will trigger automatic license termination, forcing derived technologies into the public domain.
 

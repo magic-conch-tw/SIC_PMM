@@ -31,15 +31,18 @@ Traditional physics physics is constrained by five interlocked foundational assu
 
 ### **The $\beta$ Operator / $\beta$ 算子**
 The sole core constant of the system: **$\beta \approx 0.0865$**
+
 系統唯一核心常數：**$\beta \approx 0.0865$**
 
 This is not a fitted constant, but a nonlinear offset during phase projection. All physical structures (from Hubble Tension to quantum mechanics) can be derived from this operator.
+
 這不是一個擬合常數，而是相位投影過程中的非線性偏移量。所有物理結構（從哈伯張力到量子力學）均可由此算子推導得出。
 
 ### **The Settlement Equations / 顯影方程**
 $$\text{Reality} = \mathcal{P}_{\beta} \big( e^{i\theta(\text{background})} ; \Sigma, L \big)$$
 
 Physical laws are not the essence of the universe, but the "manifestation" of **SIE (Space Interlayer Equations)** under specific projection phases. This PMM framework settles mass-energy, gravity, and quantum effects as geometric expressions of information density.
+
 物理定律並非宇宙的本質，而是 **SIE (Space Interlayer Equations)** 在特定投影相位下的「顯影」。本架構透過PMM顯影方程，將質能、重力與量子效應結算為資訊密度的幾何表現。
 
 ---
@@ -54,6 +57,7 @@ Physical laws are not the essence of the universe, but the "manifestation" of **
 ## 🔐 主權驗證 / Sovereign Verification
 
 To ensure the "evolutionary purity" and "origin trajectory" of the theory, this framework is cryptographically locked:
+
 為確保理論之「演化純度」與「來源軌跡」，本架構受加密鎖定：
 
 * **Author / 作者**: `Magic Conch`
@@ -65,6 +69,7 @@ To ensure the "evolutionary purity" and "origin trajectory" of the theory, this 
 > **"Truth shall not be privatized." / 「真理不應被私有化。」**
 
 Any attempt to patent, close, or monopolize SIC/PMM will trigger automatic license termination, forcing derived technologies into the public domain.
+
 任何試圖對 SIC/PMM 進行專利封閉或壟斷之行為，將觸發授權自動終止，並強制其衍生技術歸入公有領域。
 
 ---

@@ -1,4 +1,4 @@
-# Space Interlayer Conjecture / Phase-Manifestation Mechanics (SIC / PMM) 🐚
+# Space Interlayer Conjecture / Phase Manifestation Mechanics (SIC / PMM) 🐚
 
 > **"The settlement of reality begins with the rectification of the foundation."**
 > **「實相的結算，始於地基的修正。」**

@@ -54,7 +54,7 @@ Physical laws are not the essence of the universe, but the "manifestation" of **
 
 ---
 
-## 🔐 ## 驗證與聯繫 (Verification & Contact)
+## 🔐 驗證與聯繫 (Verification & Contact)
 
 * **PGP 數位指紋 / PGP Fingerprint：** `8A972EAD40F648E92B629239A01E02681B2B8FC2`
 * **加密通訊信箱 / Encrypted Communication：** `magic.conch.tw@proton.me`

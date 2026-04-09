@@ -58,7 +58,7 @@ Physical laws are not the essence of the universe, but the "manifestation" of **
 
 * **PGP 數位指紋 / PGP Fingerprint：** `8A972EAD40F648E92B629239A01E02681B2B8FC2`
 * **加密通訊信箱 / Encrypted Communication：** `magic.conch.tw@proton.me`
-* **永久存檔 / Permanent Archive (IPFS CID)：** `ipfs://QmQChCAj4ZCH8y45gTHm5pJvgobUGULjZEuCXskvSvgrbX`
+* **永久存檔 / Permanent Archive (IPFS CID)：** `ipfs://QmQChCAj4ZCH8y45gTHm5pJvgobUGULjZEuCXskvSvgrbX](https://ipfs.io/ipfs/QmQChCAj4ZCH8y45gTHm5pJvgobUGULjZEuCXskvSvgrbX`
 * **完整性校驗 / Integrity Note (SHA-256)：** *請核對官方發布頁面提供之最終文件雜湊值，以確保內容純淨。*
 
 ## ⚖️ 反壟斷條款 / Anti-Monopoly Clause

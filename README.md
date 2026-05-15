@@ -52,8 +52,18 @@ Physical laws are not the essence of the universe, but the "manifestation" of **
 * **[SIC_PMM_Main.pdf](./SIC_PMM_Main.pdf)**
     * 內容涵蓋：數制修正、 $\beta$ 偏移推導、哈伯張力結算、離散算符定義。
     * Contents: Base-system rectification, $\beta$-offset derivation, Hubble Tension settlement, and discrete operators.
-* **Official Archive (DOI):** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20190154.svg)](https://doi.org/10.5281/zenodo.20190154)
-    * Permanent Link: https://doi.org/10.5281/zenodo.20190154
+
+* **[SIC_PMM_en.md](./SIC_PMM_en.md) (English Original Manuscript)**
+
+* **[SIC_PMM_tc.md](./SIC_PMM_tc.md) (繁體中文原稿)**
+
+* **Official Archive (DOI):** 
+    * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20190154.svg)](https://doi.org/10.5281/zenodo.20190154)
+    * Permanent Link: [https://doi.org/10.5281/zenodo.20190154](https://doi.org/10.5281/zenodo.20190154)
+
+---
+> **Integrity Note:** 
+> All source files are cryptographically signed (PGP) and hashed (SHA-256) to ensure non-repudiation and content integrity.
 ---
 
 ## 🔐 驗證與聯繫 (Verification & Contact)

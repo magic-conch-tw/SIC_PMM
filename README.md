@@ -5,7 +5,7 @@
 
 ![Domain](https://img.shields.io/badge/Domain-Theoretical--Physics-blue)
 ![Framework](https://img.shields.io/badge/Framework-SIC--PMM-red)
-![Status](https://img.shields.io/badge/Status-Settled-brightgreen)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 ## 🌐 專案概述 / Overview
 
